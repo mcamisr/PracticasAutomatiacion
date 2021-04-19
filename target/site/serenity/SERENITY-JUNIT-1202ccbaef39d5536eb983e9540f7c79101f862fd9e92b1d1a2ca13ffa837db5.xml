@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Buscar hotel" skipped="0" tests="1" time="36.93" timestamp="2021-04-18 09:29:49"><testcase name=": Buscar Hotel"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+tasks.BuscarHotel.performAs(BuscarHotel.java:22)&#13;
+stepdefinitions.BucarHotelStepDefinition.buscoIngresoUnNombreDeHotel(BucarHotelStepDefinition.java:41)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

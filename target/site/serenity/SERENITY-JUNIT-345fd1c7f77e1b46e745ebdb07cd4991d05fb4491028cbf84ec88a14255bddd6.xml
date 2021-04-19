@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="inicio de sesion" skipped="0" tests="1" time="27.56" timestamp="2021-04-15 07:53:02"><testcase name="inicio de sesion"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+tasks.IniciarSesion.onThePage(IniciarSesion.java:32)&#13;
+stepdefinitions.IniciarSesionStepDefinition.ingresoMisCredenciales(IniciarSesionStepDefinition.java:34)&#13;
+✽.ingreso mis credenciales  k_a_myla16@hotmail.com m251607(src/test/resources/features/iniciar_sesion.feature:11)&#13;
+</system-err></testcase></testsuite>
